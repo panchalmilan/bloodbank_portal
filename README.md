@@ -14,15 +14,15 @@
 
 #### Dashboard
 
-![*](./screenshots/Admin/Admin Dashboard.png)
+![Dashboard](./screenshots/Admin/Admin Dashboard.png)
 
 #### Admin Login Page
 
-![*](./screenshots/Admin/Admin Login.png)
+![Login](./screenshots/Admin/Admin Login.png)
 
 #### Blood Stock Page
 
-![*](./screenshots/Admin/Admin Blood Stock.png)
+![Stock](./screenshots/Admin/Admin Blood Stock.png)
 
 #### Blood Request Page
 
