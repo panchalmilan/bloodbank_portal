@@ -14,35 +14,35 @@
 
 #### Dashboard
 
-![Dashboard](./screenshots/Admin/Admin Dashboard.png)
+![Dashboard](./screenshots/Admin/Admin-Dashboard.png)
 
-#### Admin Login Page
+####Admin Login Page
 
-![Login](./screenshots/Admin/Admin Login.png)
+![Login](./screenshots/Admin/Admin-Login.png)
 
 #### Blood Stock Page
 
-![Stock](./screenshots/Admin/Admin Blood Stock.png)
+![Stock](./screenshots/Admin/Admin-Blood-Stock.png)
 
 #### Blood Request Page
 
-![*](./screenshots/Admin/Admin Blood Requests.png)
+![*](./screenshots/Admin/Admin-Blood-Requests.png)
 
 #### Blood Request History Page
 
-![*](./screenshots/Admin/Admin Blood Request History.png)
+![*](./screenshots/Admin/Admin-Blood-Request-History.png)
 
 #### Donations Page
 
-![*](./screenshots/Admin/Admin Donations.png)
+![*](./screenshots/Admin/Admin-Donations.png)
 
 #### Donor Page
 
-![*](./screenshots/Admin/Admin Donor Tab.png)
+![*](./screenshots/Admin/Admin-Donor-Tab.png)
 
 #### Patient Page
 
-![*](./screenshots/Admin/Admin Patient Tab.png)
+![*](./screenshots/Admin/Admin-Patient-Tab.png)
 
 <!--  -->
 
