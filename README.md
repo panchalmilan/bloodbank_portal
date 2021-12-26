@@ -10,7 +10,7 @@
 
 <!--  -->
 
-<h4 align="center">Repository for Blood Bank Portal.</h4>
+<h4 align="center"><strong>Admin</strong></h4>
 
 #### Dashboard
 
@@ -46,7 +46,7 @@
 
 <!--  -->
 
-### Donor
+<h4 align="center"><strong>Donor</strong></h4>
 
 #### Dashboard
 
@@ -78,7 +78,7 @@
 
 <!--  -->
 
-### Patient
+<h4 align="center"><strong>Patient</strong></h4>
 
 #### Dashboard
 
