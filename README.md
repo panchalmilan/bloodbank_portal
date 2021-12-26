@@ -6,4 +6,4 @@
 
 #### Login/Signup:
 
-![Homepage]('./screenshots/Home.png)
+![Homepage](./screenshots/Home.png)
