@@ -10,7 +10,7 @@
 
 <!--  -->
 
-<h4 align="center"><strong>Admin</strong></h4>
+<h4 align="center"><strong>Admin Section</strong></h4>
 
 #### Dashboard
 
@@ -46,7 +46,7 @@
 
 <!--  -->
 
-<h4 align="center"><strong>Donor</strong></h4>
+<h4 align="center"><strong>Donor Section</strong></h4>
 
 #### Dashboard
 
@@ -78,7 +78,7 @@
 
 <!--  -->
 
-<h4 align="center"><strong><u>Patient</u></strong></h4>
+<h4 align="center"><strong><u>Patient Section</u></strong></h4>
 
 #### Dashboard
 
