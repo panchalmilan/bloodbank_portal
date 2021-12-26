@@ -16,7 +16,7 @@
 
 ![Dashboard](./screenshots/Admin/Admin-Dashboard.png)
 
-####Admin Login Page
+#### Admin Login Page
 
 ![Login](./screenshots/Admin/Admin-Login.png)
 
@@ -50,31 +50,31 @@
 
 #### Dashboard
 
-![*](./screenshots/Donor/Donor Dashboard.png)
+![*](./screenshots/Donor/Donor-Dashboard.png)
 
 #### Donor Signup Page
 
-![*](./screenshots/Donor/Donor Signup.png)
+![*](./screenshots/Donor/Donor-Signup.png)
 
 #### Donor Login Page
 
-![*](./screenshots/Donor/Donor Login.png)
+![*](./screenshots/Donor/Donor-Login.png)
 
 #### Blood Request Page
 
-![*](./screenshots/Donor/Donor Blood Request.png)
+![*](./screenshots/Donor/Donor-Blood-Request.png)
 
 #### Blood Request History Page
 
-![*](./screenshots/Donor/Donor Blood Request History.png)
+![*](./screenshots/Donor/Donor-Blood-Request-History.png)
 
 #### Donate Blood Page
 
-![*](./screenshots/Donor/Donor Donate Blood.png)
+![*](./screenshots/Donor/Donor-Donate-Blood.png)
 
 #### Donor History Page
 
-![*](./screenshots/Donor/Donor Donation History (Approved).png)
+![*](./screenshots/Donor/Donor-Donation-History.png)
 
 <!--  -->
 
@@ -82,23 +82,23 @@
 
 #### Dashboard
 
-![*](./screenshots/Patient/Patient Dashboard.png)
+![*](./screenshots/Patient/Patient-Dashboard.png)
 
 #### Signup Page
 
-![*](./screenshots/Patient/Patient Signup.png)
+![*](./screenshots/Patient/Patient-Signup.png)
 
 #### Login Page
 
-![*](./screenshots/Patient/Patient Login.png)
+![*](./screenshots/Patient/Patient-Login.png)
 
 #### Make Request Page
 
-![*](./screenshots/Patient/Patient Make Request.png)
+![*](./screenshots/Patient/Patient-Make-Request.png)
 
 #### Request History Page
 
-![*](./screenshots/Patient/Patient Request History (approved).png)
+![*](./screenshots/Patient/Patient-Request-History.png)
 
 <!--  -->
 
