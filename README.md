@@ -78,7 +78,7 @@
 
 <!--  -->
 
-<h4 align="center"><strong>Patient</strong></h4>
+<h4 align="center"><strong><u>Patient</u></strong></h4>
 
 #### Dashboard
 
