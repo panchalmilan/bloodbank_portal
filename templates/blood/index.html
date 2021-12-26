@@ -1,0 +1,46 @@
+{% load static %}
+<!DOCTYPE html>
+
+<head>
+    <style>
+        .xyz{
+          background-image: url('{% static "image/homepage3.jpeg" %}');
+          background-size: cover;
+          background-repeat: no-repeat;
+           height: 100%;
+          width: 100vw; 
+          margin-top: -24px;
+        }
+      </style>
+      
+</head>
+
+
+<body>
+
+  {% include "blood/navbar.html" %}
+<br>
+<div style="position: relative;">
+  <div style="position: absolute; text-align: center; width: 100vw; margin-top: 30px;">
+  <h1>One<span style="color: red;">Blood</span>: The Most Trusted Blood Bank Portal</h1></div>
+  <!-- <h1 style="position: absolute; top: 300px; left: 180px;">Donate Blood, </h1>
+  <h1 style="position: absolute; top: 354px;left: 180px;">Be a Hero.</h1> -->
+  <section id="section-jumbotron" style="margin-bottom: 0px;" class="jumbotron jumbotron-fluid d-flex justify-content-center align-items-center xyz">
+    <div class="container text-center">
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+      <br><br>
+    </div>  
+  </section>
+</div>
+
+<!-- rgb(247, 158, 158); -->
+  <div class="jumbotron" style="margin-top: 0px;margin-bottom: 0px; background-color: #fbe4e7">
+    <h1 class="lead text-center" style="font-size: 34px; font-weight: 400;">“Donate Blood, Be a Hero.”
+      </h1>
+  </div> 
+  {% include "blood/footer.html" %} 
+
+
+</body>
+
+</html>
