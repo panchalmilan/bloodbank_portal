@@ -4,6 +4,20 @@
 
 ## Screenshots
 
-#### Login/Signup:
+#### Home Page:
 
 ![Homepage](./screenshots/Home.png)
+
+### Admin
+
+### Donor
+
+### Patient
+
+#### Dashboard
+
+![]('./screenshots/Patient/Patient Dashboard.png')
+
+#### Logout Page:
+
+![LogoutPage](./screenshots/Logout.png)
