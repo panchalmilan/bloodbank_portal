@@ -1,6 +1,6 @@
 <h1 align="center">OneBlood</h1>
 
-<h4 align="center">Repository for Blood Bank Portal.</h4>
+<h3 align="center">Repository for Blood Bank Portal.</h3>
 
 ## Screenshots
 
@@ -10,7 +10,7 @@
 
 <!--  -->
 
-### Admin
+<h4 align="center">Repository for Blood Bank Portal.</h4>
 
 #### Dashboard
 
